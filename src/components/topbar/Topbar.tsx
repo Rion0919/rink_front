@@ -12,7 +12,7 @@ export const Topbar: React.FC = () => {
           <input
             type="text"
             className={styles.searchInput}
-            placeholder="検索"
+            placeholder="検索する"
           />
         </div>
       </div>
